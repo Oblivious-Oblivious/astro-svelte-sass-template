@@ -1,2 +1,2 @@
-# Contributing to astro-sass-template.
-Adding an [issue](https://github.com/Oblivious-Oblivious/astro-sass-template/issues)
+# Contributing to astro-svelte-sass-template.
+Adding an [issue](https://github.com/Oblivious-Oblivious/astro-svelte-sass-template/issues)
