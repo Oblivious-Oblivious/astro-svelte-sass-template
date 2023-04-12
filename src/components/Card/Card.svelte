@@ -30,7 +30,7 @@
         }
 
         &:is(:hover, :focus-within) .link-title {
-            color: rgb(var(--accent));
+            color: rgb(var(--accent-color));
         }
 
         a {
